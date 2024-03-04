@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/nethriis/image-compressor.git
 cd image-compressor
 ```
 
