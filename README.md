@@ -61,3 +61,5 @@ Contributions to this project are welcome. Please adhere to the following guidel
 ## License
 
 Distributed under the [GPL-3.0 license](/LICENSE).
+
+_Generated with [MarkdownView](https://www.markdownview.com) ✨_
